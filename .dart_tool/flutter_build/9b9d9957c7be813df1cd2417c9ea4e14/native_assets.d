@@ -1,0 +1,1 @@
+ /Users/akankshajain/StudioProjects/flutter_tearable_cloth/.dart_tool/flutter_build/9b9d9957c7be813df1cd2417c9ea4e14/native_assets.yaml: 
